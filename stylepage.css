@@ -1,0 +1,39 @@
+body {
+  background-color: gray;
+}
+ h1{
+  color:DarkBlue;
+ }
+ h2{
+   color:DarkBlue;
+ }
+#backbutton{
+  width:140px;
+  color:white;
+  height:100px;
+  border-radius: 120px;
+  background-color:black;
+  border: 100px;
+  font-size: 40px;
+  transition: 2s;
+}
+#backbutton:hover{
+  background-color: blue;
+}
+
+
+#donate{
+  width:140px;
+  color:white;
+  height:100px;
+  border-radius: 120px;
+  background-color: black;
+  border: 100px;
+  font-size: 15px;
+  transition:2s;
+}
+
+
+#donate:hover{
+  background-color:blue;
+}

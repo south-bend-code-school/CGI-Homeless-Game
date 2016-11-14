@@ -1,0 +1,38 @@
+button {
+  width: 175px;
+  height: 100px;
+  color: white;
+  background-color: darkblue;
+  border: solid;
+  border-color: white;
+  font-size: 1.2em;
+  border-radius: 200px;
+}
+
+.split {
+  width: 100%;
+  display: block;
+}
+
+button:hover{
+  background-color: lightblue;
+  color: white;
+}
+h1 {
+ color: red;
+ font-size: 40px;
+ font-family: Calibri;
+}
+
+p{
+  font-size: 40px;
+  color: red;
+}
+body{
+  background-color: grey;
+  color: navy;
+  text-align: center;
+}
+
+.biggericon{
+  font-size: 50px !important;

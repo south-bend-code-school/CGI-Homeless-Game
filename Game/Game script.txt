@@ -1,0 +1,32 @@
+Screen 1
+You just woke up. You are in the same alley as you were for the past month. You have not really searched this place. Do you search or walk away and go on an adventure?
+
+Screen 2
+You have just found five dollars in this alley. Do you keep it or leave it there?
+
+Screen 3
+You have just tripped over the curb! Do you sit down and rest or keep walking?
+
+Screen 4
+This injury looks serious! Do you keep resting or go to the hospital?
+
+Screen 5
+You are starving. You have found the convenience store. Do you keep walking or go inside to buy food?
+
+Screen 6
+You bought your food. It was a bag of chips and some water. After you are finished do you keep walking or hang out in this spot?
+
+Screen 7
+When you were “hanging out” you were in a no loitering zone. A police man walks by and you had nothing to say. He handcuffed you and put you in his car. The next thing you know you are at the city jail! You have no option but to restart the game.
+
+Screen 8
+Your knee really hurts. You find the hospital, do you go inside or keep walking?
+
+Screen 9
+It is raining pretty hard. Do you hang out under storefront or keep walking?
+
+Screen 10
+You have found the hospital. You have nowhere else to go, so do you go inside hospital?
+
+Screen 11
+Success! You have gotten the health care you need. So now you are healthy and ready to start a new life! You can start the game over.
