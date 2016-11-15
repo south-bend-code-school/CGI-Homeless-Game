@@ -19,14 +19,15 @@ button:hover{
   color: white;
 }
 h1 {
- color: red;
+ color: blue;
+ font-weight: bold;
  font-size: 40px;
  font-family: Calibri;
 }
 
 p{
   font-size: 40px;
-  color: red;
+  color: navy;
 }
 body{
   background-color: grey;

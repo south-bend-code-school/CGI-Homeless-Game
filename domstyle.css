@@ -19,14 +19,14 @@ button:hover{
   color: white;
 }
 h1 {
- color: red;
+ color: blue;
  font-size: 40px;
  font-family: Calibri;
  text-align: center;
 }
  body{
    background-color: black;
-   color: navy;
+   color: white;
    text-align: center;
  }
  .biggericon{
